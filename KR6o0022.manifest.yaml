@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0022/v1
 canonical_location: https://kanripo.org/bkk/KR6o0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 因明入正理論續疏
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0022_000.yaml, hash: 'sha256:10aa78cf7801e261fb252304e546a003c8b6db76df3a44f217e417ec3822e22e'}
-  - {seq: 1, filename: KR6o0022_001.yaml, hash: 'sha256:52c9198256260a339e65b8ee5f8835e552a314718c9aef4e113f3f7a29213082'}
+  - {seq: 1, filename: KR6o0022_001.yaml, hash: 'sha256:0d0e2eabfaf054985017527cfe4e04f3a5cb5768691296cd087231b37502da43'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0022_000.markers.yaml, hash: 'sha256:8b2be2c6597f980a0bdb880691879ad4d70b045b05365675053a45f70d8d1338'}
-  - {seq: 1, role: markers, filename: assets/KR6o0022_001.markers.yaml, hash: 'sha256:5a3afcca6773d2f2614197ed5de0626c6fffda0a6594cf0a2a0b0989e8b9c802'}
+  - {seq: 1, role: markers, filename: assets/KR6o0022_001.markers.yaml, hash: 'sha256:2e28b8d2b12f6d984389b91790a1f4d350dbc11ad7b284070b4accb7909f1c19'}
 table_of_contents:
 - ref:
     seq: 0
@@ -67,4 +67,7 @@ table_of_contents:
   label: No. 852-B
   type: mulu
   level: 1
-hash: sha256:662aa88c7969dbd2edf36f8267f5e0b609cb3d0224c1b2de89212e5035a63dd6
+hash: sha256:af6489f7bf988ab4b4f41b18674c83023ceb6e11fa31a08d1c471b0c48a53d33
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
